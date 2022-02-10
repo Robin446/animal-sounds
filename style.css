@@ -1,0 +1,34 @@
+body{
+    font-family: 'Comforter', cursive;
+    background: chartreuse;
+}
+.header_div{
+    background: #93f5c4;
+    color: crimson;
+}
+
+.header_div p{
+    font-family: 'Dongle', sans-serif;
+    color: tomato;
+    letter-spacing: 3px;
+    font-size: 15px;
+    font-weight: bolder;
+}
+.main_div button{
+    font-family: 'Rubik Beastly', cursive;
+    margin-top: 40px;
+    width: 140px;
+    font-weight: bolder;
+    letter-spacing: 4px;
+}
+
+.footer{
+    position: fixed;
+    color: cyan;
+    bottom: 0;width: 100%;
+    font-size: 14px;
+    background-color: greenyellow;
+    line-height: 2;
+    text-align: center;
+    text-shadow: 4px 5px 7px;
+}
